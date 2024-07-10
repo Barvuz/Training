@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Smith",
+      "email": "alice.smith@example.com",
+      "phone": "+1-202-555-0123",
+      "address": "123 Maple Street, Springfield, USA"
+    },
+    {
+      "id": 2,
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "phone": "+1-416-555-4567",
+      "address": "456 Oak Avenue, Toronto, Canada"
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "email": "charlie.brown@example.com",
+      "phone": "+44-20-5555-7890",
+      "address": "789 Pine Road, London, UK"
+    },
+    {
+      "id": 4,
+      "name": "Diana Prince",
+      "email": "diana.prince@example.com",
+      "phone": "+61-2-5555-1234",
+      "address": "101 Elm Street, Sydney, Australia"
+    },
+    {
+      "id": 5,
+      "name": "Eve Adams",
+      "email": "eve.adams@example.com",
+      "phone": "+64-4-555-6789",
+      "address": "202 Birch Lane, Wellington, New Zealand"
+    }
+  ]
